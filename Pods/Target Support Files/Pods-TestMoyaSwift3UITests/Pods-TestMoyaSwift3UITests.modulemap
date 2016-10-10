@@ -1,0 +1,6 @@
+framework module Pods_TestMoyaSwift3UITests {
+  umbrella header "Pods-TestMoyaSwift3UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
